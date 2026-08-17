@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-z96wm2.leogaming.cfd/sitemap.xml
